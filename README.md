@@ -22,11 +22,12 @@ Por exemplo, o Python usa a declaração match (introduzida no Python 3.10) para
 
 Como as equações específicas para calcular a transferência de calor máxima admissível, a resistência térmica necessária e a espessura recomendada para o isolamento não foram fornecidas, as fórmulas exatas usadas nos programas são suposições.
 
--C
+<div>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                                                                                         
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">  
+   
 
--Python
-
--Fluxograma
 
 
 
