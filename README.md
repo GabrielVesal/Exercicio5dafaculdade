@@ -25,7 +25,7 @@ Como as equações específicas para calcular a transferência de calor máxima 
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                                                                                         
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">  
+
    
 
 
